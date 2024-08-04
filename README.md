@@ -8,11 +8,11 @@ Juros de 10% para dívidas com mais de 15 dias de atraso.
 
 
  <h2>🚀 Uso </h2>
-Insira o valor da dívida
+<li>Insira o valor da dívida</li>
 <br>
-Insira o número de dias de atraso
+<li>Insira o número de dias de atraso</li>
 <br>
-O valor dos juros será exibido.
+<li>O valor dos juros será exibido.</li>
 
 <h2>🛠️ Instalação </h2>
 Clone este repositório:
