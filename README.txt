@@ -1,4 +1,4 @@
-📈 Sistema de Cálculo de Juros de Dívidas
+<h1 align="center"> 📈 Sistema de Cálculo de Juros de Dívidas </h1>
 Um sistema simples em JavaScript que calcula os juros de uma dívida com base no valor da dívida e nos dias de atraso.
 
 📋 Descrição
