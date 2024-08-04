@@ -3,7 +3,7 @@ Um sistema simples em JavaScript que calcula os juros de uma dívida com base no
 Este projeto permite que os usuários insiram o valor da dívida e o número de dias de atraso. O sistema então calcula e retorna o valor dos juros acumulados.
 <br>
 <li>Juros de 5% para dívidas com até 15 dias de atraso.</li>
-<br>
+
 <li>Juros de 10% para dívidas com mais de 15 dias de atraso.</li>
 
 
