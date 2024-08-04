@@ -30,10 +30,3 @@ Clone este repositório:
 ````bash
 cd calculo-juros-dividas
 
-
-
-
-
-
-
-
