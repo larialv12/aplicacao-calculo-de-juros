@@ -25,7 +25,7 @@ Clone este repositório:
 
  Navegue até o diretório do projeto:
  
-     cd calculo-juros-dividas.
+     cd calculo-juros-dividas
 
 
 Execute o arquivo da aplicacao(Necessario ter Node.js instalado)
