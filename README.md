@@ -30,6 +30,8 @@ Clone este repositório:
 
 
 Execute o arquivo da aplicacao(Necessario ter Node.js instalado)
+```bash
+node script.js
 
 
 
