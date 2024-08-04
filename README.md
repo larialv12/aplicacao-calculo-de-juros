@@ -8,10 +8,12 @@ Juros de 10% para dívidas com mais de 15 dias de atraso.
 
 
  <h2>🚀 Uso </h2>
-Insira o valor da dívida no campo "Valor da Dívida".
-Insira o número de dias de atraso no campo "Dias de Atraso".
-Clique no botão "Calcular Juros".
-O valor dos juros será exibido abaixo do formulário.
+Insira o valor da dívida
+<br>
+Insira o número de dias de atraso
+<br>
+O valor dos juros será exibido.
+
 <h2>🛠️ Instalação </h2>
 Clone este repositório:
 
