@@ -19,7 +19,7 @@ Clone este repositório:
 
 
 
-    git clone https://github.com/seuusuario/calculo-juros-dividas.git
+    git clone https://github.com/larialv12/aplicacao-calculo-de-juros
    
 
 
