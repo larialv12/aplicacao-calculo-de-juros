@@ -15,11 +15,16 @@ Clone este repositório:
 
 
     git clone https://github.com/seuusuario/calculo-juros-dividas.git
-    Navegue até o diretório do projeto:
+   
 
 
-
+ Navegue até o diretório do projeto:
+ ```bash 
 cd calculo-juros-dividas
+
+
+
+
 
 <h2>🚀 Uso </h2>
 Insira o valor da dívida no campo "Valor da Dívida".
