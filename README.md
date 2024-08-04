@@ -12,17 +12,14 @@ Este projeto permite que os usuários insiram o valor da dívida e o número de 
 <h2>🛠️ Instalação </h2>
 Clone este repositório:
 
-bash
-Copiar código
-git clone https://github.com/seuusuario/calculo-juros-dividas.git
-Navegue até o diretório do projeto:
 
 
-Copiar código
-bash```
+    git clone https://github.com/seuusuario/calculo-juros-dividas.git
+    Navegue até o diretório do projeto:
+
+
 
 cd calculo-juros-dividas
-Abra o arquivo index.html em seu navegador.
 
 <h2>🚀 Uso </h2>
 Insira o valor da dívida no campo "Valor da Dívida".
