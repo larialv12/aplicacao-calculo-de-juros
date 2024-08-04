@@ -17,8 +17,10 @@ Copiar código
 git clone https://github.com/seuusuario/calculo-juros-dividas.git
 Navegue até o diretório do projeto:
 
-bash
+
 Copiar código
+bash```
+
 cd calculo-juros-dividas
 Abra o arquivo index.html em seu navegador.
 
