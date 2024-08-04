@@ -7,8 +7,15 @@ Este projeto permite que os usuários insiram o valor da dívida e o número de 
 <h2> 🌟 Funcionalidades </h2>
 
  Calcula juros de 5% para dívidas com até 15 dias de atraso.
+ <br>
  Calcula juros de 10% para dívidas com mais de 15 dias de atraso.
- 
+
+
+ <h2>🚀 Uso </h2>
+Insira o valor da dívida no campo "Valor da Dívida".
+Insira o número de dias de atraso no campo "Dias de Atraso".
+Clique no botão "Calcular Juros".
+O valor dos juros será exibido abaixo do formulário.
 <h2>🛠️ Instalação </h2>
 Clone este repositório:
 
@@ -19,15 +26,14 @@ Clone este repositório:
 
 
  Navegue até o diretório do projeto:
- ```bash 
+
+````bash
 cd calculo-juros-dividas
 
 
 
 
 
-<h2>🚀 Uso </h2>
-Insira o valor da dívida no campo "Valor da Dívida".
-Insira o número de dias de atraso no campo "Dias de Atraso".
-Clique no botão "Calcular Juros".
-O valor dos juros será exibido abaixo do formulário.
+
+
+
